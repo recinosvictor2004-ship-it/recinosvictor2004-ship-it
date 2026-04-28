@@ -6,16 +6,23 @@
 # Lenguajes
 
 . Python 🐍
+
 . Java ☕
+
 . C##
+
 . JavaScript 
 
 # Herramientas
 
 .Git & GitHub
+
 .Visual Studio Code
+
 .Qtiplot
+
 .Terminal / Git Bash
+
 .JSON para persistencia de datos
 
 # Metodologías
@@ -31,7 +38,7 @@
 
 # ⭐ Proyectos Destacados
 
-1. Sistema de Inventario para Cafetería ☕
+## 1. Sistema de Inventario para Cafetería ☕
 Repositorio donde implementé:
 
 .CRUD completo (agregar, listar, editar, eliminar)
@@ -44,7 +51,7 @@ Repositorio donde implementé:
 
 .Flujo profesional con ramas y merges
 
-# 2. Sistema de Reservas de Cine 🎬
+## 2. Sistema de Reservas de Cine 🎬
 
 .Manejo de archivos JSON
 
@@ -54,7 +61,7 @@ Repositorio donde implementé:
 
 .Modularización del código
 
-# 3. Proyecto de Evaluación de Manejo 🚗
+## 3. Proyecto de Evaluación de Manejo 🚗
 
 .Registro de alumnos
 
@@ -64,7 +71,7 @@ Repositorio donde implementé:
 
 .Documentación técnica completa
 
-# 📚 Actualmente aprendiendo
+## 📚 Actualmente aprendiendo
 
 .Patrones de diseño
 
