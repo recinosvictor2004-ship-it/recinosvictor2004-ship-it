@@ -1,20 +1,23 @@
-## 👋 ¡Hola! Soy Victor Manuel Recinos Gómez
-# 🧑‍💻 Estudiante de Ingeniería en Ciencias y Sistemas
-# 📍 Mixco, Guatemala
-# 🚀 Apasionado por la programación, el desarrollo de software y la tecnología
-#🧰 Tecnologías y herramientas que manejo
-## Lenguajes
+# 👋 ¡Hola! Soy Victor Manuel Recinos Gómez
+## 🧑‍💻 Estudiante de Ingeniería en Ciencias y Sistemas
+## 📍 Mixco, Guatemala
+## 🚀 Apasionado por la programación, el desarrollo de software y la tecnología
+## 🧰 Tecnologías y herramientas que manejo
+# Lenguajes
+
 . Python 🐍
 . Java ☕
 . C##
 . JavaScript 
 
 # Herramientas
+
 .Git & GitHub
 .Visual Studio Code
 .Qtiplot
 .Terminal / Git Bash
 .JSON para persistencia de datos
+
 # Metodologías
 .Control de versiones con ramas
 
@@ -27,6 +30,7 @@
 .Modularización de proyectos
 
 # ⭐ Proyectos Destacados
+
 1. Sistema de Inventario para Cafetería ☕
 Repositorio donde implementé:
 
@@ -39,7 +43,9 @@ Repositorio donde implementé:
 .Arquitectura modular (app.py, main.py, inventario.py, storage.py)
 
 .Flujo profesional con ramas y merges
+
 # 2. Sistema de Reservas de Cine 🎬
+
 .Manejo de archivos JSON
 
 .Validación de entradas
@@ -49,6 +55,7 @@ Repositorio donde implementé:
 .Modularización del código
 
 # 3. Proyecto de Evaluación de Manejo 🚗
+
 .Registro de alumnos
 
 .Evaluación práctica
@@ -58,6 +65,7 @@ Repositorio donde implementé:
 .Documentación técnica completa
 
 # 📚 Actualmente aprendiendo
+
 .Patrones de diseño
 
 .Bases de datos SQL
@@ -69,10 +77,12 @@ Repositorio donde implementé:
 .Prompt Engineering
 
 .Optimización de código
+
 # 📫 Cómo contactarme
+
 Correo: recinosvictor2004@gmail.com
 
 GitHub: recinosvictor2004-ship-it
 
-## ✨ Frase personal
-# “La disciplina supera al talento cuando el talento no se disciplina.”
+# ✨ Frase personal
+## “La disciplina supera al talento cuando el talento no se disciplina.”
